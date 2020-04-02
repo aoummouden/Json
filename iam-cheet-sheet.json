@@ -4,7 +4,7 @@
      "IAM is a universal system": "(applied to all regions atthe same time). IAM is a free service.",
     " A root account is the account created when AWS is set up(ful administrator)"
    " New IAM account has no permissions until granted"
-    "New users get assingned an access key id and secret when first created when you give them programatic access",
+    "New users get assingned an access key id and secret when first created when you give them programatic access"
     "Access keys are only used for cli and SDK(cannt access console"
     "Access keys are only shown once created. If lost, they must be delete/recretedagain"
     "always set up MFA for root accounts"
