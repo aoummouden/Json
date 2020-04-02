@@ -1,4 +1,6 @@
 {
 
-  "identity access management" :"is used to mage access to \users and resources",
-  
+    "identity access management" :"is used to mage access to \users and resources", 
+     "IAM is a universal system": "(applied to all regions atthe same time). IAM is a free service.",
+    
+}
