@@ -5,5 +5,5 @@
     " A root account is the account created when AWS is set up(ful administrator)",
    " New IAM account has no permissions until granted",
     "New users get assingned an access key id and secret when first created when you give them programatic access",
-    
+    "Access keys are only used for cli and SDK(cannt access console",
 }
