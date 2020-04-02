@@ -6,4 +6,6 @@
    " New IAM account has no permissions until granted",
     "New users get assingned an access key id and secret when first created when you give them programatic access",
     "Access keys are only used for cli and SDK(cannt access console",
+    "Access keys are only shown once created. If lost, they must be delete/recretedagain",
+    "always set up MFA for root accounts"
 }
