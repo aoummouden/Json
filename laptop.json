@@ -1,0 +1,9 @@
+{
+  "name": ["dell, hp, sony"],
+  "color":["grey", "white"],
+  "size": {
+      "height":0.16,
+      "width": 2.5
+  }
+
+}
