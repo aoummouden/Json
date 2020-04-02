@@ -2,20 +2,20 @@
 
     "identity access management" :"is used to mage access to \users and resources", 
      "IAM is a universal system": "(applied to all regions atthe same time). IAM is a free service.",
-    " A root account is the account created when AWS is set up(ful administrator)",
-   " New IAM account has no permissions until granted",
+    " A root account is the account created when AWS is set up(ful administrator)"
+   " New IAM account has no permissions until granted"
     "New users get assingned an access key id and secret when first created when you give them programatic access",
-    "Access keys are only used for cli and SDK(cannt access console",
-    "Access keys are only shown once created. If lost, they must be delete/recretedagain",
-    "always set up MFA for root accounts",
-    "users must enable MFA on their account, Administrator cannt turn it on for each user",
-    "IAM allows your set password policied to set minimum password requirements or rotate passwords",
-    "IAM indentities as users, Groups amd roles",
-    "IAM users end users who log into console or interact with AWS resources programmatically",
-    "IAM Groups group up your users so they all share permmission levels of the group: eg. Administrators, Developers, Auditors",
-    "IAM roles associates permissions to a role and then assign this to users or groups",
+    "Access keys are only used for cli and SDK(cannt access console"
+    "Access keys are only shown once created. If lost, they must be delete/recretedagain"
+    "always set up MFA for root accounts
+    "users must enable MFA on their account, Administrator cannt turn it on for each user"
+    "IAM allows your set password policied to set minimum password requirements or rotate passwords"
+    "IAM indentities as users, Groups amd roles"
+    "IAM users end users who log into console or interact with AWS resources programmatically"
+    "IAM Groups group up your users so they all share permmission levels of the group. eg. Administrators, Developers, Auditors",
+    "IAM roles associates permissions to a role and then assign this to users or groups"
     "IAM policies Json documents which grant permission levels for a specific user, group or role to access services.policies are attched to IAM identities",
-    "Managed Policies are policies provied by AWS and cannot be edited",
+    "Managed Policies are policies provied by AWS and cannot be edited"
     " Customer managed Policies are policies created by the customer and which you can edit"
     "Inline Policies are policies which are directly attached to a user"
     
