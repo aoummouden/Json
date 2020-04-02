@@ -16,5 +16,6 @@
     "IAM roles associates permissions to a role and then assign this to users or groups",
     "IAM policies Json documents which grant permission levels for a specific user, group or role to access services.policies are attched to IAM identities",
     "Managed Policies are policies provied by AWS and cannot be edited",
+    " Customer managed Policies are policies created by the customer and which you can edit",
     
 }
