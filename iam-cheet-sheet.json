@@ -4,5 +4,6 @@
      "IAM is a universal system": "(applied to all regions atthe same time). IAM is a free service.",
     " A root account is the account created when AWS is set up(ful administrator)",
    " New IAM account has no permissions until granted",
+    "New users get assingned an access key id and secret when first created when you give them programatic access",
     
 }
